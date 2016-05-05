@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "첫 블로그 포스팅"
-date: 2016-05-05 17:06:00
 ---
 
 github에서 jekyll now을 사용해 블로그를 생성하였습니다.
